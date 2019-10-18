@@ -1,0 +1,20 @@
+{
+  "name": "my-camel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanreddymure/My-Camel.git"
+  },
+  "author": "jeevan mure",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeevanreddymure/My-Camel/issues"
+  },
+  "homepage": "https://github.com/jeevanreddymure/My-Camel#readme"
+}
